@@ -51,7 +51,7 @@ Me chamo Leonardo Cardoso Baratella, tenho 33 anos e sou profissional de TI com 
   <!-- Analista de TI -->
   <tr>
     <td valign="middle" align="center">
-      <img width="180" alt="Analista de TI"
+      <img width="220" alt="Analista de TI"
         src="https://github.com/user-attachments/assets/57128d2e-e3a2-409d-8914-6f66b8c38ec4" />
     </td>
     <td valign="middle">
