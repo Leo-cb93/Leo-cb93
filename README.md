@@ -30,52 +30,58 @@ Me chamo Leonardo Cardoso Baratella, tenho 33 anos e sou profissional de TI com 
 
 ### 🤖 Experiencias e Habilidades
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img width="180" alt="Image" src="https://github.com/user-attachments/assets/b2c3d4cd-27f3-4cb3-b186-7fd79f8c6e16" />
 
-  <div>
-    <h3>Analista de Sistemas</h3>
-    <ul>
-      <li>Atendimento a usuários (Help Desk interno via Jira – presencial e remoto)</li>
-      <li>Análise de sistemas ERP DealerNet e NBS</li>
-      remoto</li>
-      <li>Analise de Dados, Organização e Documentação</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <!-- Analista de Sistemas -->
+  <tr>
+    <td valign="middle" align="center">
+      <img width="220" alt="Analista de Sistemas"
+        src="https://github.com/user-attachments/assets/b2c3d4cd-27f3-4cb3-b186-7fd79f8c6e16" />
+    </td>
+    <td valign="middle">
+      <h3>Analista de Sistemas</h3>
+      <ul>
+        <li>Atendimento a usuários (Help Desk interno via Jira – presencial e remoto)</li>
+        <li>Análise de sistemas ERP DealerNet e NBS</li>
+        <li>Análise de dados, organização e documentação</li>
+      </ul>
+    </td>
+  </tr>
 
----
+  <!-- Analista de TI -->
+  <tr>
+    <td valign="middle" align="center">
+      <img width="180" alt="Analista de TI"
+        src="https://github.com/user-attachments/assets/57128d2e-e3a2-409d-8914-6f66b8c38ec4" />
+    </td>
+    <td valign="middle">
+      <h3>Analista de TI</h3>
+      <ul>
+        <li>Suporte técnico e manutenção da infraestrutura de TI</li>
+        <li>Atendimento a usuários (Help Desk interno via Jira – presencial e remoto)</li>
+        <li>Administração de servidores Windows Server e Linux (AD, arquivos e Hyper-V)</li>
+        <li>Manutenção de computadores, notebooks e relógio de ponto</li>
+        <li>Organização e manutenção de cabeamento de rede e elétrica</li>
+        <li>Configuração e suporte a roteadores</li>
+      </ul>
+    </td>
+  </tr>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img width="180" alt="Image" src="https://github.com/user-attachments/assets/57128d2e-e3a2-409d-8914-6f66b8c38ec4" />
-
-  <div>
-    <h3>Analista de TI</h3>
-    <ul>
-      <li>Suporte técnico e manutenção da infraestrutura de TI</li>
-      <li>Atendimento a usuários (Help Desk interno via Jira – presencial e remoto)</li>
-      <li>Administração de servidores Windows Server e Linux (AD, arquivos e Hyper-V)</li>
-      <li>Manutenção de computadores, notebooks e relógio de ponto</li>
-      <li>Organização e manutenção de cabeamento de rede e elétrica</li>
-      <li>Configuração e suporte a roteadores</li>
-    </ul>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img width="302" alt="Técnico de Informática" src="https://github.com/user-attachments/assets/6fa76e8f-08ae-40d7-b3f3-f473370e2a23" />
-
-  <div>
-    <h3>Técnico de Informática</h3>
-    <ul>
-      <li>Manutenção de computadores de PDV, terminais de consulta e servidores</li>
-      <li>Suporte a ambientes Windows e Linux</li>
-      <li>Infraestrutura de rede e cabeamento</li>
-      <li>Manutenção básica em banco de dados PostgreSQL</li>
-      <li>Manutenção básica em banco de dados PostgreSQL</li>
-      <li>Suporte ao sistema ERP MixDB</li>
-    </ul>
-  </div>
-</div>
+  <!-- Técnico de Informática -->
+  <tr>
+    <td valign="middle" align="center">
+      <img width="220" alt="Técnico de Informática"
+        src="https://github.com/user-attachments/assets/6fa76e8f-08ae-40d7-b3f3-f473370e2a23" />
+    </td>
+    <td valign="middle">
+      <h3>Técnico de Informática</h3>
+      <ul>
+        <li>Manutenção de computadores de PDV, terminais de consulta e servidores</li>
+        <li>Suporte a ambientes Windows e Linux</li>
+        <li>Infraestrutura de rede e cabeamento</li>
+        <li>Manutenção básica em banco de dados PostgreSQL</li>
+        <li>Suporte ao sistema ERP MixDB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
