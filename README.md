@@ -45,6 +45,7 @@ Me chamo Leonardo Cardoso Baratella, tenho 33 anos e sou profissional de TI com 
         <li>Análise de sistemas ERP DealerNet e NBS</li>
         <li>Análise de dados, organização e documentação</li>
         <li>Implantação de Sistemas ERP</li>
+        <li>Excel e Power BI</li>
       </ul>
     </td>
   </tr>
