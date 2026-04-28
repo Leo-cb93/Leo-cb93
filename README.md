@@ -44,6 +44,7 @@ Me chamo Leonardo Cardoso Baratella, tenho 33 anos e sou profissional de TI com 
         <li>Atendimento a usuários (Help Desk interno via Jira – presencial e remoto)</li>
         <li>Análise de sistemas ERP DealerNet e NBS</li>
         <li>Análise de dados, organização e documentação</li>
+        <li>Implantação de Sistemas ERP</li>
       </ul>
     </td>
   </tr>
