@@ -31,7 +31,7 @@ Me chamo Leonardo Cardoso Baratella, tenho 33 anos e sou profissional de TI com 
 ### 🤖 Experiencias e Habilidades
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img width="302" height="364" alt="Image" src="https://github.com/user-attachments/assets/b2c3d4cd-27f3-4cb3-b186-7fd79f8c6e16" />
+  <img width="180" alt="Image" src="https://github.com/user-attachments/assets/b2c3d4cd-27f3-4cb3-b186-7fd79f8c6e16" />
 
   <div>
     <h3>Analista de Sistemas</h3>
@@ -47,7 +47,7 @@ Me chamo Leonardo Cardoso Baratella, tenho 33 anos e sou profissional de TI com 
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img width="302" height="364" alt="Image" src="https://github.com/user-attachments/assets/57128d2e-e3a2-409d-8914-6f66b8c38ec4" />
+  <img width="180" alt="Image" src="https://github.com/user-attachments/assets/57128d2e-e3a2-409d-8914-6f66b8c38ec4" />
 
   <div>
     <h3>Analista de TI</h3>
